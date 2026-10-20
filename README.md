@@ -103,7 +103,7 @@ Computers in the same department
 ![Switch 2 Trunk Link](Switch2-trunk.png)
 
 ### Router Gateway Verification:
-![Router Subinterfaces Output](router_interface.png)
+![Router Subinterfaces Output](router-interface.png)
 
 ---
 
