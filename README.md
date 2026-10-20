@@ -99,7 +99,7 @@ Computers in the same department
 ![Switch 1 Trunk Link](Switch1-trunk.png)
 
 ### Switch 2 Live Verification:
-![Switch 2 VLAN Configuration](Switch2-vlanConfig.png)
+![Switch 2 VLAN Configuration](Switch2-vlanConfing.png)
 ![Switch 2 Trunk Link](Switch2-trunk.png)
 
 ### Router Gateway Verification:
